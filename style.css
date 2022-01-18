@@ -1,0 +1,32 @@
+body{
+    background-color: cadetblue;
+}
+#head{
+    color: white;
+    font-size: xx-large;
+    font-family: 'Bebas Neue', cursive;
+}
+span{
+    font-size:x-large;
+}
+#songname_button{
+    background-color:darkcyan;
+    color: white;
+    font-size: x-large;
+    border-color: black;
+}
+h3{
+color: white;
+font-size: large;
+font-family: 'Bebas Neue', cursive;
+}
+label{
+    color: white;
+    font-size: x-large;
+    font-family: 'Bebas Neue', cursive;  
+}   
+canvas{
+    border: black;
+    margin-top:110px;
+
+}
